@@ -42,7 +42,7 @@
     "webpack-bundle-analyzer": "^2.2.1"
   },
   "dependencies": {
-    "axios": "^0.15.3",
+    "axios": "^0.19.2",
     "babel-cli": "^6.18.0",
     "babel-plugin-closure-elimination": "^1.1.14",
     "babel-plugin-constant-folding": "^1.0.1",
