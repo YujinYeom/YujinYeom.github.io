@@ -39,7 +39,7 @@
     "npm": "^4.0.5",
     "style-loader": "^0.13.1",
     "webpack": "^1.14.0",
-    "webpack-bundle-analyzer": "^2.2.1"
+    "webpack-bundle-analyzer": "^3.7.0"
   },
   "dependencies": {
     "axios": "^0.15.3",
