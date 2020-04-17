@@ -3,10 +3,10 @@ layout: page
 title: 타이틀쪽임 이거수정하면됨
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/test1.png
 imageshadow: true
 ---
 
-This website is a demonstration to see **보이루** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.
+여기는 about에 대한 내용입니다 **갑자기이지랄하면** 진하게 나오네요~~싱기방기~
 
 <a target="_blank" href="https://google.com" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
